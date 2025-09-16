@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation_Assesment.API", "QA_Automation.API\Automation_Assesment.API.csproj", "{1CB266CE-1BA0-4DB1-9751-DD5AF878008F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation_Assessment.UI", "Automation_Assessment.UI\Automation_Assessment.UI.csproj", "{5C7C80AA-D6F2-4978-B819-BAE1B7E688AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB266CE-1BA0-4DB1-9751-DD5AF878008F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB266CE-1BA0-4DB1-9751-DD5AF878008F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB266CE-1BA0-4DB1-9751-DD5AF878008F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB266CE-1BA0-4DB1-9751-DD5AF878008F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7C80AA-D6F2-4978-B819-BAE1B7E688AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7C80AA-D6F2-4978-B819-BAE1B7E688AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7C80AA-D6F2-4978-B819-BAE1B7E688AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7C80AA-D6F2-4978-B819-BAE1B7E688AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DFA70F-BBF8-4255-9196-DE108A91E3E7}
+	EndGlobalSection
+EndGlobal
