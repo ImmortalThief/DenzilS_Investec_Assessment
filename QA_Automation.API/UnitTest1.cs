@@ -8,8 +8,13 @@ namespace Automation_Assesment.API
         }
 
         [Test]
-        public void Test1()
+        public async Task GivenRequestMadeToSwapi_WhenNameIsR2D2_ThenSkinColourIsWhiteAndBlue()
         {
+            // Arrange
+
+            // Act
+
+            // Assert
             Assert.Pass();
         }
     }
